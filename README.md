@@ -10,6 +10,7 @@ Descripcion corta del proyecto.
 - [Contribuci�n](#contribuci�n)
 - [Licencia](#licencia)
 - [Nueva Pagina creada](./wiki/pagina1.md)
+- [Pagina Rama 2](./wiki/paginaR2.md)
 
 ## Instalaci�n
 
