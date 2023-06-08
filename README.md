@@ -13,6 +13,8 @@ Descripcion corta del proyecto.
 - [Pagina R1](./wiki/paginaR1.md)
 - [Pagina Rama 2](./wiki/paginaR2.md)
 
+
+cambios rama 3
 ## Instalaci�n
 
 Indica los pasos necesarios para instalar y configurar el proyecto. Puedes incluir ejemplos de comandos o enlaces a documentaci�n adicional.
